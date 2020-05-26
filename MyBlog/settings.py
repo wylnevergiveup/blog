@@ -25,7 +25,7 @@ SECRET_KEY = 'crsrq77j7qxn$yc4a=te=_=mi21864^ga&3(q0h%irvjf*akms'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.five510.shop', '47.93.32.107']
+ALLOWED_HOSTS = ['0.0.0.0:8000', 'localhost', '.five510.shop', '47.93.32.107', '127.0.0.1']
 
 
 # Application definition
